@@ -105,7 +105,7 @@
     <section class="hero">
         <div>
             <h1>Welcome to My Web Page</h1>
-            <p>Crafting beautiful websites with modern design principles</p>
+            <p>Successfully Deployed my First Demo Static Website</p>
             <button class="cta-button">Learn More</button>
         </div>
     </section>
